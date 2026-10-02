@@ -2,7 +2,7 @@
 
 <!-- LOCAL CITY-POP BANNER -->
 <a href="https://github.com/Andy-CE17">
-  <img src="banner-v2.svg" width="960" alt="Perfil de Andy-CE17 en terminal azul">
+  <img src="banner-v3.svg" width="960" alt="Perfil de Andy-CE17 en terminal azul">
 </a>
 
 <br>
