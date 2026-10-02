@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b111b"/><stop offset="1" stop-color="#12283b"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#244259" stroke-opacity=".35"/></pattern></defs>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/><rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+<rect x="24" y="24" width="1152" height="292" rx="12" fill="none" stroke="#35516a"/>
+<g font-family="monospace"><circle cx="52" cy="49" r="5" fill="#38bdf8"/><circle cx="72" cy="49" r="5" fill="#64748b"/><circle cx="92" cy="49" r="5" fill="#94a3b8"/>
+<text x="114" y="54" font-size="14" fill="#94a3b8">Andy-CE17 · profile.sh · online</text><path d="M24 72H1176" stroke="#35516a"/>
+<text x="65" y="132" font-size="17" fill="#38bdf8">$ init profile</text>
+<text x="62" y="198" font-size="45" font-weight="bold" fill="#f1f5f9">ANDY-CE17</text>
+<text x="65" y="241" font-size="20" fill="#94a3b8">Ideas · Código · Proyectos</text><text x="65" y="289" font-size="13" fill="#38bdf8">[ BIENVENIDO A MI GITHUB ]</text><path d="M1060 264l24 16-24 16m35 0h28" fill="none" stroke="#38bdf8" stroke-width="5"/>
+</g></svg>
