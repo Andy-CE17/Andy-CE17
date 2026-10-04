@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://github.com/Andy-CE17"><img src="banner-v9.svg" width="960" alt="Perfil de Andy Luis en terminal azul"></a>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Andy+Luis+%E2%80%94+Software+Developer%3BWeb+%C2%B7+APIs+%C2%B7+Cloud%3BReact+%C2%B7+Python+%C2%B7+Docker+%C2%B7+Kubernetes" alt="Andy Luis: desarrollo web, APIs y nube">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Andy+Luis+%E2%80%94+Estudiante+en+Tecsup%3BWeb+%C2%B7+APIs+%C2%B7+Apps+moviles%3BReact+%C2%B7+Python+%C2%B7+Flutter" alt="Andy Luis: estudiante de Tecsup, desarrollo web y aplicaciones móviles">
 </div>
 
 ---
@@ -9,6 +9,10 @@
 ## `$ whoami`
 
 <p align="center"><img src="whoami.svg" width="960" alt="Andy Luis y su enfoque en desarrollo de software"></p>
+
+Soy Andy Luis, tengo 20 años y estudio el **5.º ciclo de Diseño y Desarrollo de Software en Tecsup**. Me gusta convertir ideas en aplicaciones útiles, tanto para la web como para dispositivos móviles, y seguir aprendiendo con cada proyecto.
+
+**Contacto:** [correo institucional](mailto:andy.campos@tecsup.edu.pe) · [correo personal](mailto:camposescandona@gmail.com)
 
 ---
 
