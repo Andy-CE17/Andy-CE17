@@ -14,7 +14,7 @@
 
 ## `$ cat tech-stack.yaml`
 
-<p align="center"><img src="tech-stack-v3.svg" width="960" alt="Tecnologías confirmadas por Andy: frontend, backend, datos, nube, contenedores y CI/CD"></p>
+<p align="center"><img src="tech-stack-v4.svg" width="960" alt="Tecnologías confirmadas por Andy: frontend, backend, datos, nube, contenedores y CI/CD"></p>
 
 ---
 
