@@ -12,9 +12,7 @@
 
 ---
 
-## `$ cat tech-stack.yaml`
-
-<p align="center"><img src="tech-stack-v4.svg" width="960" alt="Tecnologías confirmadas por Andy: frontend, backend, datos, nube, contenedores y CI/CD"></p>
+<p align="center"><img src="tech-stack-final.png" width="960" alt="Stack de Andy Luis: frontend, backend, datos, cloud, contenedores y CI/CD en una terminal con efectos de rayos"></p>
 
 ---
 
