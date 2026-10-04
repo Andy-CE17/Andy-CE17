@@ -1,7 +1,5 @@
 <div align="center">
-<a href="https://github.com/Andy-CE17"><img src="banner-v10.svg" width="960" alt="Perfil de Andy Luis: estudiante de Tecsup, carrera, ciclo y tecnologías"></a>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Andy+Luis+%E2%80%94+Estudiante+en+Tecsup%3BWeb+%C2%B7+APIs+%C2%B7+Apps+moviles%3BReact+%C2%B7+Python+%C2%B7+Flutter" alt="Andy Luis: estudiante de Tecsup, desarrollo web y aplicaciones móviles">
+<a href="https://github.com/Andy-CE17"><img src="banner-v11.svg" width="960" alt="Andy Luis: bienvenida y navegación por el perfil"></a>
 </div>
 
 ---
