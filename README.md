@@ -14,7 +14,7 @@
 
 ## `$ cat tech-stack.yaml`
 
-<p align="center"><img src="tech-stack-v2.svg" width="960" alt="Tecnologías confirmadas por Andy: frontend, backend, datos, nube, contenedores y CI/CD"></p>
+<p align="center"><img src="tech-stack-v3.svg" width="960" alt="Tecnologías confirmadas por Andy: frontend, backend, datos, nube, contenedores y CI/CD"></p>
 
 ---
 
@@ -23,5 +23,5 @@
 <div align="center">
 <a href="https://github.com/Andy-CE17"><img src="https://img.shields.io/badge/GitHub-Andy--CE17-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=38bdf8" alt="GitHub de Andy"></a>
 <br><br><sub>Andy Luis · Código y proyectos</sub>
-<br><sub>Diseño inspirado en <a href="https://github.com/macu-dev/macu-dev">macu-dev</a>, adaptado en azul y cian.</sub>
+<br><sub>Diseño inspirado en <a href="https://github.com/macu-dev/macu-dev">macu-dev</a>. Logos de <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> (licencia MIT).</sub>
 </div>
