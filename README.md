@@ -2,12 +2,12 @@
 <a href="https://github.com/Andy-CE17"><img src="hero-welcome.svg" width="960" alt="WELCOME TO MY PROFILE: banner animado de Andy Luis en negro, rojo y violeta"></a>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andy-campos-escandon-457a02370/"><img src="badge-linkedin.svg" height="42" alt="LinkedIn de Andy Luis"></a>
-  <a href="https://github.com/Luis-CE17"><img src="badge-github.svg" height="42" alt="GitHub personal de Andy Luis"></a>
-  <a href="mailto:andy.campos@tecsup.edu.pe"><img src="badge-correo.svg" height="42" alt="Escribir al correo institucional de Andy Luis"></a>
-  <img src="badge-portafolio.svg" height="42" alt="Portafolio: próximamente, sin enlace" title="Portafolio: próximamente">
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/andy-campos-escandon-457a02370/"><img src="badge-linkedin.svg" alt="LinkedIn de Andy Luis"></a>
+  <a href="https://github.com/Luis-CE17"><img src="badge-github.svg" alt="GitHub personal de Andy Luis"></a>
+  <a href="mailto:andy.campos@tecsup.edu.pe"><img src="badge-correo.svg" alt="Escribir al correo institucional de Andy Luis"></a>
+  <img src="badge-portafolio.svg" alt="Portafolio: próximamente, sin enlace" title="Portafolio: próximamente">
+</div>
 
 ---
 
