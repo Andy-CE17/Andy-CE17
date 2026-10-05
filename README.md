@@ -11,10 +11,4 @@
 
 ---
 
-## `$ whoami`
-
-<p align="center"><img src="whoami.svg" width="960" alt="Andy Luis, estudiante de Tecsup: biografía y correos de contacto"></p>
-
----
-
 <p align="center"><img src="tech-stack-comic-animated.svg" width="960" alt="My tech stack: what I use to develop. 21 tecnologías en siete áreas; Backend incluye Django junto a Node.js, Python y FastAPI"></p>
