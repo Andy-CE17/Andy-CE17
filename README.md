@@ -17,4 +17,4 @@
 
 ---
 
-<p align="center"><img src="tech-stack-v5.svg" width="960" alt="Stack de Andy Luis con 20 tecnologías: frontend, backend, datos, cloud, contenedores, CI/CD y desarrollo móvil con Flutter, Android Studio y Xcode"></p>
+<p align="center"><img src="tech-stack-comic-animated.svg" width="960" alt="My tech stack: what I use to develop. 21 tecnologías en siete áreas; Backend incluye Django junto a Node.js, Python y FastAPI"></p>
