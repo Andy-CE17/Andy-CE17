@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="194" height="54" viewBox="0 0 194 54" role="img" aria-label="CORREO">
+  <title>CORREO</title>
+  <rect x="0" y="0" width="194" height="50" rx="3" fill="#178354"/>
+  <rect x="0" y="0" width="54" height="50" rx="3" fill="#29bd72"/>
+  <rect x="50" y="0" width="4" height="50" fill="#29bd72"/>
+  <rect x="0" y="50" width="194" height="4" fill="#29bd72" opacity=".75"/>
+  <text x="27" y="34" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800">@</text>
+  <text x="124.0" y="33" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" letter-spacing="2">CORREO</text>
+</svg>
