@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/Andy-CE17"><img src="banner-v11.svg" width="960" alt="Andy Luis: bienvenida y navegación por el perfil"></a>
+<a href="https://github.com/Andy-CE17"><img src="hero-welcome.svg" width="960" alt="WELCOME TO MY PROFILE: banner animado de Andy Luis en negro, rojo y violeta"></a>
 </div>
 
 ---
