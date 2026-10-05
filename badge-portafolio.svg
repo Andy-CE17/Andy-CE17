@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="228" height="54" viewBox="0 0 228 54" role="img" aria-label="PORTAFOLIO">
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="42" viewBox="0 0 188 42" role="img" aria-label="PORTAFOLIO">
   <title>PORTAFOLIO</title>
-  <rect x="0" y="0" width="228" height="50" rx="3" fill="#673b99"/>
-  <rect x="0" y="0" width="54" height="50" rx="3" fill="#9a62cc"/>
-  <rect x="50" y="0" width="4" height="50" fill="#9a62cc"/>
-  <rect x="0" y="50" width="228" height="4" fill="#9a62cc" opacity=".75"/>
-  <text x="27" y="34" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800">◇</text>
-  <text x="141.0" y="33" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" letter-spacing="2">PORTAFOLIO</text>
+  <rect width="188" height="40" fill="#7150a3"/>
+  <path d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v1.384l7.614 2.03a1.5 1.5 0 0 0 .772 0L16 5.884V4.5A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5" transform="translate(12 11) scale(1.125)" fill="#fff"/>
+  <text x="111.0" y="26" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="800" letter-spacing="1.7">PORTAFOLIO</text>
+  <rect x="0" y="40" width="188" height="2" fill="#7150a3"/>
 </svg>

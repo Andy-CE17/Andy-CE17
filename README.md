@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andy-campos-escandon-457a02370/"><img src="badge-linkedin.svg" height="54" alt="LinkedIn de Andy Luis"></a>
-  <a href="https://github.com/Luis-CE17"><img src="badge-github.svg" height="54" alt="GitHub personal de Andy Luis"></a>
-  <a href="mailto:andy.campos@tecsup.edu.pe"><img src="badge-correo.svg" height="54" alt="Escribir al correo institucional de Andy Luis"></a>
-  <img src="badge-portafolio.svg" height="54" alt="Portafolio: próximamente, sin enlace" title="Portafolio: próximamente">
+  <a href="https://www.linkedin.com/in/andy-campos-escandon-457a02370/"><img src="badge-linkedin.svg" height="42" alt="LinkedIn de Andy Luis"></a>
+  <a href="https://github.com/Luis-CE17"><img src="badge-github.svg" height="42" alt="GitHub personal de Andy Luis"></a>
+  <a href="mailto:andy.campos@tecsup.edu.pe"><img src="badge-correo.svg" height="42" alt="Escribir al correo institucional de Andy Luis"></a>
+  <img src="badge-portafolio.svg" height="42" alt="Portafolio: próximamente, sin enlace" title="Portafolio: próximamente">
 </p>
 
 ---
